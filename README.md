@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luyaso
-- 👀 I’m interested in just learning more at this point!
-- 🌱 I’m currently learning C++ and java.
-- 💞️ I’m looking to collaborate on nothing too hard...
+- 👀 I’m interested in: just learning more at this point!
+- 🌱 I’m currently learning C and java.
+- 💞️ I’m looking to collaborate on: anything!! Although fair warning, I'm still a beginner so I might not know half of what you're saying...
 - 📫 How to reach me: email at lyang25@u.rochester.edu
 
 <!---
