@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luyaso
 - 🌱 I’m currently learning C++, and encoding DAQ hardware
-- 📫 How to reach me: email at lyang25@u.rochester.edu
+- 📫 How to reach me: email at lyang25@ur.rochester.edu
 
 [Dandyhacks 2022 Project](https://replit.com/@luyaso/BLACKJACK) :D
 <!---
